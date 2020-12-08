@@ -8,4 +8,6 @@ In this project, I:
 
 • Used a least recently used write-back policy to implement write capability.
 
-If you have any more questions, feel free to message me!
+To run the program, open MATLAB and ensure that all the files are within the same directory. Then, just hit run and a simulation will report back with the analysis. 
+
+There are 64k, 256k, and 1M variants but the file sizes were too big for GitHub. If you have any more questions, feel free to message me!
